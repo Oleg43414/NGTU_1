@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "*.sqlbook": "sql",
+        "*.ndjson": "jsonl",
+        "iostream": "cpp",
+        "cstdlib": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build: Assembly (NASM)",
+            "type": "shell",
+            "command": "nasm -f win32 ${file} -o ${fileDirname}\\${fileBasenameNoExtension}.obj && gcc ${fileDirname}\\${fileBasenameNoExtension}.obj -o ${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": [],
+            "detail": "Сборка ассемблерного кода с помощью NASM и GCC"
+        },
+        {
+            "label": "Build: C++",
+            "type": "shell",
+            "command": "g++ ${file} -o ${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "detail": "Компиляция C++ с помощью g++"
+        },
+        {
+            "label": "Build: C#",
+            "type": "shell",
+            "command": "csc ${file}",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": "$msCompile",
+            "detail": "Компиляция C# с помощью csc"
+        },
+        {
+            "label": "Build: Java",
+            "type": "shell",
+            "command": "javac ${file}",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": "$javac",
+            "detail": "Компиляция Java с помощью javac"
+        },
+        {
+            "label": "Run: JavaScript",
+            "type": "shell",
+            "command": "node ${file}",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": [],
+            "detail": "Запуск JavaScript с помощью Node.js"
+        },
+        {
+            "label": "Build All",
+            "dependsOn": [
+                "Build: Assembly (NASM)",
+                "Build: C++",
+                "Build: C#",
+                "Build: Java",
+                "Run: JavaScript"
+            ],
+            "group": "build",
+            "problemMatcher": [],
+            "detail": "Запуск всех задач сборки"
+        },
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe сборка активного файла",
+            "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Задача создана отладчиком."
+        }
+    ]
+}

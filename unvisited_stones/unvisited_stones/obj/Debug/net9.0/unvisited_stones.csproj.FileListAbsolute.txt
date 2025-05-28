@@ -1,0 +1,15 @@
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\bin\Debug\net9.0\unvisited_stones.exe
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\bin\Debug\net9.0\unvisited_stones.deps.json
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\bin\Debug\net9.0\unvisited_stones.runtimeconfig.json
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\bin\Debug\net9.0\unvisited_stones.dll
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\bin\Debug\net9.0\unvisited_stones.pdb
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\obj\Debug\net9.0\unvisited_stones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\obj\Debug\net9.0\unvisited_stones.AssemblyInfoInputs.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\obj\Debug\net9.0\unvisited_stones.AssemblyInfo.cs
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\obj\Debug\net9.0\unvisited_stones.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\obj\Debug\net9.0\unvisited_stones.sourcelink.json
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\obj\Debug\net9.0\unvisited_stones.dll
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\obj\Debug\net9.0\refint\unvisited_stones.dll
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\obj\Debug\net9.0\unvisited_stones.pdb
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\obj\Debug\net9.0\unvisited_stones.genruntimeconfig.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\unvisited_stones\unvisited_stones\obj\Debug\net9.0\ref\unvisited_stones.dll

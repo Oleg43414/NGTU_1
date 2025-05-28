@@ -1,0 +1,15 @@
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\bin\Debug\net9.0\digit_ops.exe
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\bin\Debug\net9.0\digit_ops.deps.json
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\bin\Debug\net9.0\digit_ops.runtimeconfig.json
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\bin\Debug\net9.0\digit_ops.dll
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\bin\Debug\net9.0\digit_ops.pdb
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\obj\Debug\net9.0\digit_ops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\obj\Debug\net9.0\digit_ops.AssemblyInfoInputs.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\obj\Debug\net9.0\digit_ops.AssemblyInfo.cs
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\obj\Debug\net9.0\digit_ops.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\obj\Debug\net9.0\digit_ops.sourcelink.json
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\obj\Debug\net9.0\digit_ops.dll
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\obj\Debug\net9.0\refint\digit_ops.dll
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\obj\Debug\net9.0\digit_ops.pdb
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\obj\Debug\net9.0\digit_ops.genruntimeconfig.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\digit_ops\digit_ops\obj\Debug\net9.0\ref\digit_ops.dll

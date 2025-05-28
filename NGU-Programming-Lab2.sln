@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "digit_ops", "digit_ops", "{8A6B9A86-26A3-193B-D090-44978CF2BDAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pangram", "pangram", "{CF5B7D38-1114-CC6C-461E-452F94E24F49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unvisited_stones", "unvisited_stones", "{89467F80-587D-CDC9-B8F5-674AFD49AFD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digit_ops", "digit_ops\digit_ops\digit_ops.csproj", "{7EBDAAC8-6035-C22C-2ED3-2A3FE0A52DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pangram", "pangram\pangram\pangram.csproj", "{147F7CD7-A0B1-1FA6-0558-5AC32C92FACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unvisited_stones", "unvisited_stones\unvisited_stones\unvisited_stones.csproj", "{9B642375-0910-C64D-BD80-360DF20DCAD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBDAAC8-6035-C22C-2ED3-2A3FE0A52DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBDAAC8-6035-C22C-2ED3-2A3FE0A52DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBDAAC8-6035-C22C-2ED3-2A3FE0A52DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBDAAC8-6035-C22C-2ED3-2A3FE0A52DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147F7CD7-A0B1-1FA6-0558-5AC32C92FACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147F7CD7-A0B1-1FA6-0558-5AC32C92FACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147F7CD7-A0B1-1FA6-0558-5AC32C92FACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147F7CD7-A0B1-1FA6-0558-5AC32C92FACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B642375-0910-C64D-BD80-360DF20DCAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B642375-0910-C64D-BD80-360DF20DCAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B642375-0910-C64D-BD80-360DF20DCAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B642375-0910-C64D-BD80-360DF20DCAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7EBDAAC8-6035-C22C-2ED3-2A3FE0A52DB8} = {8A6B9A86-26A3-193B-D090-44978CF2BDAA}
+		{147F7CD7-A0B1-1FA6-0558-5AC32C92FACF} = {CF5B7D38-1114-CC6C-461E-452F94E24F49}
+		{9B642375-0910-C64D-BD80-360DF20DCAD6} = {89467F80-587D-CDC9-B8F5-674AFD49AFD2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CB536D5-00CA-4D1B-8F84-D200C7334020}
+	EndGlobalSection
+EndGlobal

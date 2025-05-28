@@ -1,0 +1,63 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "UnvisitedStones (Debug)",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/unvisited_stones/UnvisitedStones/obj/Debug/net8.0/UnvisitedStones.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/unvisited_stones/UnvisitedStones",
+            "console": "internalConsole",
+            "preLaunchTask": "build-unvisited-stones",
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "PangramChecker (Debug)",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/pangram_checker/PangramChecker/obj/Debug/net8.0/PangramChecker.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/pangram_checker/PangramChecker",
+            "console": "internalConsole",
+            "preLaunchTask": "build-pangram-checker"
+        },
+        {
+            "name": "DigitOps (Debug)",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/digit_ops/DigitOps/obj/Debug/net8.0/DigitOps.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/digit_ops/DigitOps",
+            "console": "externalTerminal",
+            "preLaunchTask": "build-digit-ops"
+        },
+        {
+            "name": "C++ (GDB Debug)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/${fileBasenameNoExtension}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "build-cpp",
+            "miDebuggerPath": "/usr/bin/gdb"
+        }
+    ]
+}

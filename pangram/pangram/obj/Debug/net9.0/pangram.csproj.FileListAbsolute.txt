@@ -1,0 +1,15 @@
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\bin\Debug\net9.0\pangram.exe
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\bin\Debug\net9.0\pangram.deps.json
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\bin\Debug\net9.0\pangram.runtimeconfig.json
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\bin\Debug\net9.0\pangram.dll
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\bin\Debug\net9.0\pangram.pdb
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\obj\Debug\net9.0\pangram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\obj\Debug\net9.0\pangram.AssemblyInfoInputs.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\obj\Debug\net9.0\pangram.AssemblyInfo.cs
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\obj\Debug\net9.0\pangram.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\obj\Debug\net9.0\pangram.sourcelink.json
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\obj\Debug\net9.0\pangram.dll
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\obj\Debug\net9.0\refint\pangram.dll
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\obj\Debug\net9.0\pangram.pdb
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\obj\Debug\net9.0\pangram.genruntimeconfig.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\NGU-Programming-Lab2\pangram\pangram\obj\Debug\net9.0\ref\pangram.dll
