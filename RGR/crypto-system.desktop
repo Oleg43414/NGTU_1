@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Crypto System
+Comment=Система шифрования с Morse кодом, RSA и 3-WAY
+Exec=/home/admin-pc/123/bin/crypto_system
+Path=/home/admin-pc/123
+Categories=Utility;Security;
+Terminal=true
+StartupNotify=true

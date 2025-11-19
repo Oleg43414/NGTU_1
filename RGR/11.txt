@@ -1,0 +1,51 @@
+#include <iostream>
+#include <sstream>
+#include <vector>
+#include <algorithm>
+
+bool isPalindrome(const std::string& word) {
+    std::string reversedWord = word;
+    std::reverse(reversedWord.begin(), reversedWord.end());
+    return word == reversedWord;
+}
+
+std::string reverseWordsInString(const std::string& input) {
+    std::istringstream stream(input);
+    std::string word;
+    std::vector<std::string> words;
+
+    // Читаем слова из строки
+    while (stream >> word) {
+        // Проверяем, является ли слово палиндромом
+        if (!isPalindrome(word)) {
+            // Переворачиваем слово и добавляем в вектор
+            std::reverse(word.begin(), word.end());
+            words.push_back(word);
+        }
+    }
+
+    // Собираем слова обратно в строку
+    std::ostringstream result;
+    for (size_t i = 0; i < words.size(); i++) {
+        result << words[i];
+        if (i < words.size() - 1) {
+            result << " "; // добавляем пробелы между словами
+        }
+    }
+
+    return result.str();
+}
+
+int main() {
+    // Заменяем статическую строку на ввод от пользователя
+    setlocale(LC_ALL, "rus");
+    std::string input;
+    std::cout << "Введите предложение: ";
+    std::getline(std::cin, input); // Считываем ввод от пользователя
+
+    std::string output = reverseWordsInString(input);
+    std::cout << "Исходная строка: " << input << std::endl;
+    std::cout << "Результат: " << output << std::endl;
+
+    return 0;
+}
